@@ -1,0 +1,14 @@
+h1 {
+    color: crimson;
+    font-size:42px;
+}
+canvas {
+    border:ridge;
+    border-width: 10px;
+    background-color:white;
+}
+body {
+    background-image: url(https://en.pimg.jp/043/265/680/1/43265680.jpg);
+    background-position: center;
+    background-size: cover;
+}
